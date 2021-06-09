@@ -1,0 +1,18 @@
+Ngoài ra còn có thêm 1 số phương thức khác của đối tượng window
+* Phương thức alert trong JS
+* phương thức confirm trong JS
+* phương thức prompt trong JS
+* phương thức setTimeout trong JS
+* atob
+* btoa
+* clearInterval
+* clearTimeout
+* close
+* focus
+* getComputeredStyle
+* getSelection
+* matchMedia
+* moveBy
+* moveTo
+* print
+...
