@@ -1,0 +1,10 @@
+*Const
+    - Dùng để khai báo 1 hằng số - là giá trị không thay đổi được trong suốt
+    quá trình chạy
+    VD const A = 5;
+        A = 10 // Lỗi uncaught typeError
+
+*Let
+    - Một trong những nguyên nhân khiến let có thể thay thế var để xử lý vấn đề
+    nêu trên là vì biến let được khai báo sẽ có scope là block scoped
+    chứ không phải globally hay locally scoped.
